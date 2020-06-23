@@ -276,6 +276,15 @@ hr {
   background-color: rgb(236, 95, 18);
 }
 
+.imgAparecer {
+  display: block;
+}
+
+.img-fluid {
+  display: none;
+}
+
+
 /* Footer */
 footer {
   background-image: linear-gradient(#f5f5f5, rgb(190, 190, 190));
@@ -397,6 +406,14 @@ footer {
 
   .itemAnalise img {
     width: 100%;
+  }
+
+  .imgAparecer {
+    display: none;
+  }
+
+  .img-fluid {
+    display: block;
   }
 
   .btnAnalise {
