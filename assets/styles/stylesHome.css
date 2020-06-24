@@ -278,6 +278,10 @@ hr {
   background-color: rgb(236, 95, 18);
 }
 
+.artigoGato {
+  text-align: justify;
+}
+
 .imgAparecer {
   display: block;
 }

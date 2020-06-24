@@ -166,5 +166,27 @@
             </div>
 
         </div>
+
+        <div class="itemAnalise">
+            <div><img src="./assets/images/vacinaCao.png" class="imgAparecer" width="360px" height="400px" alt=""></div>
+            <div><img src="./assets/images/vacinaCao.png" class="img-fluid" height="400px" alt=""></div>
+            <center>
+                <div>
+                    <h1 class="tituloItemAnalise" style="margin: 25px 10px 0 10px">VACINAS PARA CACHORROS E GATOS: AS INDISPENSÁVEIS PARA SEU PET</h1>
+                    <br>
+                    <p class="conteudoAnalise"  >Sem sombra de dúvidas, a vacinação vem ajudando a evitar diversas epidemias no mundo, e é um recurso indispensável tanto para a saúde humana quanto para a saúde dos nossos pets.
+                        <p class="conteudoAnalise" style="margin-top: 10px;">
+                            Neste conteúdo vamos falar mais sobre as vacinas referentes aos cães e gatos, explicaremos cada uma delas.</p>
+                    </p>
+                </div>
+            </center>
+
+            <div>
+                <center><a href="vacinaPets.php"><button class="btnAnalise">Melhores <br> rações para <br> cachorro</button></a></center>
+            </div>
+
+        </div>
+        <div class="itemAnalise">
+
+        </div>
     </div>
-</div>

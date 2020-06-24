@@ -10,7 +10,7 @@
 <div class="contatos container">
     <div class="itemContato">
         <h1 class="tituloContato">Endereço: </h1>
-        <p class="textoItem"><i class="fas fa-home"></i> Av. Eng. Fábio Roberto Barnabé, 3405 - Jardim Regina</p>
+        <p class="textoItem"><i class="fas fa-home"></i> Av. Eng. Fábio Roberto Barnabé, <br> 3405 - Jardim Regina</p>
     </div>
 
     <div class="itemContato">
