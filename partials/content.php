@@ -17,7 +17,7 @@
     </div> -->
     <div class="itensServicos">
         <center>
-            <div class="icon"><i class="fa fa-plus-square fa-2x"></i></div>
+            <div class="icon"><i class="fas fa-clinic-medical fa-2x"></i></div>
             <h1 class="tituloServicos">Veterinários</h1>
             <h5 class="subtituloServicos">Aqui recomendamos um parceiro que fez a lista de alguns veterinários disponíveis na cidade de Indaiatuba</h1>
                 <a href="https://www.indaiatubafacil.com.br/guia/animais/clinicas-veterinarias.asp?c=54" target="_blank"><button class="btnn">MAIS</button></a>
