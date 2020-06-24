@@ -4,7 +4,7 @@
             <div class="icon"><i class="fas fa-paw fa-2x"></i></div>
             <h1 class="tituloServicos">Cuidados com seu pet</h1>
             <h5 class="subtituloServicos">Todos nós queremos ter um pet saudável, assim recomendamos nosso parceiro dando algumas dicas para ter seu pet saudável.</h1>
-                <a href="https://www.bayervet.com.br/criancas-pets/cuidados-pet-saudavel.aspx"><button class="btnn">MAIS</button></a>
+                <a href="https://www.bayervet.com.br/criancas-pets/cuidados-pet-saudavel.aspx" target="_blank"><button class="btnn">MAIS</button></a>
         </center>
     </div>
     <!-- <div class="itensServicos">
