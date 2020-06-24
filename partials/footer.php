@@ -8,7 +8,7 @@
                 <div class="col-md-12 py-5 footer">
                     <div class="mb-5 flex-center">
 
-                        <a href="" class="fb-ic redesocial">
+                        <a href="https://www.facebook.com/Pets-Hotel-102295628204829/" class="fb-ic redesocial">
                             <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                         </a>
                         <a href="" class="tw-ic redesocial">
