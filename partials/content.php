@@ -53,7 +53,7 @@
             <div class="itemAnaliseAprofundada"><img class="img-fluid" src="./assets/images/racao.jpg" style="margin-bottom: -3px;" width="100%" height="100%" alt=""> <img class="imgAparecer" src="./assets/images/racao.jpg" style="margin-bottom: -3px;" width="100%" height="100%" alt="">
                 <div class="conteudoItemAprofundado">
                     <h1 style="font-weight: 700; font-size: 40px; padding-top: 40px">RAÇÕES</h1>
-                    <p style="margin: 20px 40px; line-height: 2.0; font-size: 20px">Confira as análises mais aprofundadas de um dos nossos parceiros sobre rações por marca, raças e comparativos.</p>
+                    <p style="margin: 20px 40px; line-height: 2.0; font-size: 25px">Confira as análises mais aprofundadas de um dos nossos parceiros sobre rações por marca, raças e comparativos.</p>
                     <a class="btn btnAprofun" href="https://amoraospets.com/racoes/"><button class="btn btnAprofun">VEJA AGORA</button></a>
                 </div>
             </div>
@@ -131,8 +131,8 @@
         <h1 class="tituloAnalise">Análises em destaque</h1>
         <hr>
         <div class="itemAnalise">
-            <div><img src="./assets/images/cachorroRacao.jpg" class="imgAparecer" width="340px" height="400px" alt=""></div>
-            <div><img src="./assets/images/cachorroRacao.jpg" class="img-fluid" width="340px" height="400px" alt=""></div>
+            <div><img src="./assets/images/cachorroRacao.jpg" class="imgAparecer" width="360px" height="400px" alt=""></div>
+            <div><img src="./assets/images/cachorroRacao.jpg" class="img-fluid" height="400px" alt=""></div>
             <center>
                 <div>
                     <h1 class="tituloItemAnalise">AS 5 MELHORES RAÇÕES PARA CACHORRO</h1>
@@ -149,7 +149,7 @@
 
         </div>
         <div class="itemAnalise">
-            <div><img src="./assets/images/gatoRacao.jpg" class="imgAparecer" width="340px" height="400px" alt=""></div>
+            <div><img src="./assets/images/gatoRacao.jpg" class="imgAparecer" width="360px" height="400px" alt=""></div>
             <div><img src="./assets/images/gatoRacao.jpg" class="img-fluid" width="340px" height="400px" alt=""></div>
             <center>
                 <div>

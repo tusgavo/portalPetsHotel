@@ -201,7 +201,7 @@ hr {
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-bottom: 10px;
-  padding-top: 40px;
+  padding-top: 20px;
   text-align: center;
   color: rgb(236, 81, 0);
 }
@@ -268,7 +268,8 @@ hr {
 .analisesAprofundadas button {
   background-color: rgb(236, 81, 0);
   color: white;
-  padding: 10px 15px;
+  padding: 15px 100px;
+  font-size: 20px;
 }
 
 .analisesAprofundadas button:hover {
@@ -283,7 +284,6 @@ hr {
 .img-fluid {
   display: none;
 }
-
 
 /* Footer */
 footer {
@@ -457,7 +457,7 @@ footer {
   .itemAnaliseAprofundada {
     width: 55%;
   }
-  
+
   .itemAnaliseAprofundada img {
     height: 200px;
   }

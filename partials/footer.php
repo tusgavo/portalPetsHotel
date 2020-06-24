@@ -33,6 +33,44 @@
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script>
+    $(window).resize(function() {
+        h = $(window).height();
+        if (h >= 900) {
+            $('.analisesProfundas').css("zoom", "100%");
+        }
+        if (h <= 799) {
+            $('.analisesProfundas').css("zoom", "75%");
+        }
+    });
+    $(document).ready(function() {
+        h = $(window).height();
+        if (h >= 900) {
+            $('.analisesProfundas').css("zoom", "100%");
+        }
+        if (h <= 799) {
+            $('.analisesProfundas').css("zoom", "75%");
+        }
+    });
+    $(window).resize(function() {
+        h = $(window).height();
+        if (h >= 900) {
+            $('.analises').css("zoom", "100%");
+        }
+        if (h <= 799) {
+            $('.analises').css("zoom", "75%");
+        }
+    });
+    $(document).ready(function() {
+        h = $(window).height();
+        if (h >= 900) {
+            $('.analises').css("zoom", "100%");
+        }
+        if (h <= 799) {
+            $('.analises').css("zoom", "75%");
+        }
+    });
+</script>
 </body>
 
 </html>
