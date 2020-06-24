@@ -4,7 +4,7 @@
         <h1>As 5 Melhores Rações Do Mercado Para Gatos</h1>
     </center>
 </div>
-<div class="artigoGato">
+<div class="artigoGato" style="margin: 0 50px;">
     <div class="container">
         <h1 class="tituloArtigo">Qual a melhor ração para gatos?</h1> <br>
         <p class="textoArtigo">Hoje nosso artigo vai falar exclusivamente sobre a alimentação seca dos gatos. É um conteúdo para tutores preocupados que querem oferecer somente o melhor.</p> <br>
