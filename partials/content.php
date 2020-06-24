@@ -2,25 +2,25 @@
     <div class="itensServicos">
         <center>
             <div class="icon"><i class="fas fa-paw fa-2x"></i></div>
-            <h1 class="tituloServicos">Titulo</h1>
-            <h5 class="subtituloServicos">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque illo itaque minima mollitia a fugiat consectetur non quam! Porro quod commodi officia! Rerum reiciendis magnam commodi fuga quasi aspernatur obcaecati!</h1>
-                <button class="btnn">MAIS</button>
+            <h1 class="tituloServicos">Cuidados com seu pet</h1>
+            <h5 class="subtituloServicos">Todos nós queremos ter um pet saudável, assim recomendamos nosso parceiro dando algumas dicas para ter seu pet saudável.</h1>
+                <a href="https://www.bayervet.com.br/criancas-pets/cuidados-pet-saudavel.aspx"><button class="btnn">MAIS</button></a>
         </center>
     </div>
-    <div class="itensServicos">
+    <!-- <div class="itensServicos">
         <center>
             <div class="icon"><i class="fas fa-paw fa-2x"></i></div>
             <h1 class="tituloServicos">Titulo</h1>
             <h5 class="subtituloServicos">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque illo itaque minima mollitia a fugiat consectetur non quam! Porro quod commodi officia! Rerum reiciendis magnam commodi fuga quasi aspernatur obcaecati!</h1>
                 <button class="btnn">MAIS</button>
         </center>
-    </div>
+    </div> -->
     <div class="itensServicos">
         <center>
             <div class="icon"><i class="fa fa-plus-square fa-2x"></i></div>
-            <h1 class="tituloServicos">Titulo</h1>
-            <h5 class="subtituloServicos">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque illo itaque minima mollitia a fugiat consectetur non quam! Porro quod commodi officia! Rerum reiciendis magnam commodi fuga quasi aspernatur obcaecati!</h1>
-                <button class="btnn">MAIS</button>
+            <h1 class="tituloServicos">Veterinários</h1>
+            <h5 class="subtituloServicos">Aqui recomendamos um parceiro que fez a lista de alguns veterinários disponíveis na cidade de Indaiatuba</h1>
+                <a href="https://www.indaiatubafacil.com.br/guia/animais/clinicas-veterinarias.asp?c=54" target="_blank"><button class="btnn">MAIS</button></a>
         </center>
     </div>
 </div>
@@ -174,7 +174,7 @@
                 <div>
                     <h1 class="tituloItemAnalise" style="margin: 25px 10px 0 10px">VACINAS PARA CACHORROS E GATOS: AS INDISPENSÁVEIS PARA SEU PET</h1>
                     <br>
-                    <p class="conteudoAnalise"  >Sem sombra de dúvidas, a vacinação vem ajudando a evitar diversas epidemias no mundo, e é um recurso indispensável tanto para a saúde humana quanto para a saúde dos nossos pets.
+                    <p class="conteudoAnalise">Sem sombra de dúvidas, a vacinação vem ajudando a evitar diversas epidemias no mundo, e é um recurso indispensável tanto para a saúde humana quanto para a saúde dos nossos pets.
                         <p class="conteudoAnalise" style="margin-top: 10px;">
                             Neste conteúdo vamos falar mais sobre as vacinas referentes aos cães e gatos, explicaremos cada uma delas.</p>
                     </p>
