@@ -15,8 +15,8 @@
 
     <div class="itemContato">
         <h1 class="tituloContato">Telefones:</h1>
-        <p class="textoItem"><i class="fas fa-phone-alt"></i> (19)92834-2124</p>
-        <p class="textoItem"><i class="fas fa-phone-alt"></i> (19)92834-2124</p>
+        <p class="textoItem"><i class="fas fa-phone-alt"></i> (19)98820-6442</p>
+        <p class="textoItem"><i class="fas fa-phone-alt"></i> (19)98759-1934</p>
     </div>
 
     <div class="itemContato">
