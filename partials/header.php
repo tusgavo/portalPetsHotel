@@ -28,7 +28,7 @@
                 <a class="cabecalhoPrincipal-nav-link" href="index.php">Home</a>
                 <a class="cabecalhoPrincipal-nav-link" href="contato.php">Contato</a>
                 <a class="cabecalhoPrincipal-nav-link" href="http://petshotel.herokuapp.com/sigin" target="_blank">Cadastro</a>
-                <a class="cabecalhoPrincipal-nav-link" href="#">App</a>
+                <a class="cabecalhoPrincipal-nav-link" href="http://petshotel.herokuapp.com/login">App</a>
             </nav>
 
             <div class="dropdown">
@@ -38,7 +38,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="contato.php">Contato</a></li>
                     <li><a href="http://petshotel.herokuapp.com/sigin" target="_blank">Cadastro</a></li>
-                    <li><a href="#">App</a></li>
+                    <li><a href="http://petshotel.herokuapp.com/login">App</a></li>
                 </ul>
             </div>
         </div>
